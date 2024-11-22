@@ -12,7 +12,5 @@ git add .
 # Commit changes with message 'Updated'
 git commit -m "Updated"
 
-# Push changes to remote repository on branch 'main'
-git push origin main
 
 
